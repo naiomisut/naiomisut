@@ -5,4 +5,4 @@
 🌸 Currently a Pintrest Engage partcipant !<br/>
 👾 Making projects to track my progress !<br/>
 
-![Naiomi's GitHub stats](https://github-readme-stats.vercel.app/apinaiomisut=anuraghazra&show_icons=true&theme=midnight-purple)
+![Naiomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=naiomisut&show_icons=true&theme=midnight-purple)
