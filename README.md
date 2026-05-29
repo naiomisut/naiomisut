@@ -1,5 +1,5 @@
 # 👾 About Me:
-📘 A Computer Science student at Arizonia State University, USA !<br>📊 Learning data science !<br>🪻 Currently a Pintrest Engage partcipant !<br>⭐ Making projects to track my progress!<br>⭐ Created a blog on Pinterest to teach Computer Science, follow me @KomputerSci-Kat!
+📘 A Computer Science student at Arizonia State University, USA !<br>📊 Learning data science !<br>🪻 Was a Pintrest Engage partcipant !<br>⭐ Making projects to track my progress!<br>⭐ Completed a CyberSecurity certification!
 
 
 # 💻 Tech Stack:
